@@ -15,5 +15,6 @@ Selenium: https://pypi.org/project/selenium/
 
 ## Usage:
 1. Put deletelogs.py in the same folder as the chrome driver (it should be in the same folder as chromedriver.exe).
-2. Run the deletelogs.py by simply typing `python deletelogs.py` in your terminal.
-3. Wait and enjoy your clean logs page!
+2. Open `deletelogs.py` by any text editor, find your_username (2 locations in the code) and your_password, change them as your account's password (don't remove the quotation marks).
+3. Run the deletelogs.py by simply typing `python deletelogs.py` in your terminal.
+4. Wait and enjoy your clean logs page!
