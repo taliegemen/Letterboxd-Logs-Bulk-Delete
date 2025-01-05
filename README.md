@@ -4,8 +4,11 @@ It works by mimicking the user as if they were using the browser and clicking th
 
 ## Requirements:
 -Chrome: https://www.google.com/chrome/
+
 Chrome driver: https://googlechromelabs.github.io/chrome-for-testing/#stable
+
 -Python 3.8+: https://www.python.org/downloads/
+
 -Selenium: https://pypi.org/project/selenium/
 
 ## Setup:
